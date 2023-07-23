@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @nhmacwan
+<!--- 👋 Hi, I’m @nhmacwan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+-->
 <!---
 nhmacwan/nhmacwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -11,12 +11,14 @@ You can click the Preview link to take a look at your changes.
 Welcome! 🎉
 Profile Banner
 
-Hello there! Welcome to my GitHub profile. I'm thrilled to have you here. My name is [Your Name] 👩‍💻, and I'm a passionate software developer with a love for coding and building innovative projects. Feel free to explore my repositories and contributions, and don't hesitate to reach out if you have any questions or want to collaborate.
+Hello there! Welcome to my GitHub profile. I'm thrilled to have you here. My name is Neel Macwan 👩‍💻, and I'm a passionate Artificial Intelligence Developer with a love for coding and building innovative projects. Feel free to explore my repositories and contributions, and don't hesitate to reach out if you have any questions or want to collaborate.
 
-About Me 🙋‍♂️
-I'm a [Your Location]-based developer with expertise in [Your Core Technologies] ⌨️. My journey in the world of programming began [Number of Years] ago, and I've been hooked ever since. I believe in the power of technology to shape a better world, and I'm always on the lookout for exciting projects that challenge me to grow and learn.
+Education 🎓
+I have pursued my education in [Your Field of Study] from [University/Institution Name], located in [Your Location]. My academic journey has been one of continuous learning and growth, providing me with a strong foundation in [Your Core Technologies] ⌨️ and a passion for exploring the potential of technology.
 
-When I'm not coding, you can find me [Your Interests or Hobbies] ⚽️, [Another Interest or Hobby] 🎨, or [One More Interest or Hobby] 📚. Balancing my passion for technology with other aspects of life keeps me energized and inspired.
+Master of Science in Robotics & Autonomous Systems (Artificial Intelligence) 
+Arizona State University - May 2024
+Relevant Coursework: Machine Learning & A.I., Introduction to Deep Neural Networks, Artificial Intelligence, Machine Vision & Pattern Recognition, Robotic System 1
 
 Work Experience 👔
 Software Engineer at [Company Name] (Year - Present)
