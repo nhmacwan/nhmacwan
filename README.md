@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      background-color: lightblue;
-    }
-    /* Additional CSS styles can be added here */
-  </style>
-</head>
-<body>
-  <main>
-    
-  
 Welcome! 🎉
 ![Profile Banner](Profile.gif)
 
@@ -90,7 +76,3 @@ Your support means a lot to me and helps me dedicate more time to creating excit
 -->
 Thank You 🙏
 Thanks for visiting my GitHub profile! I hope you find something interesting here. Don't forget to star the repositories you like and follow me for updates on my latest projects. Happy coding! 🚀
-</main>
-</body>
-</html>
-
