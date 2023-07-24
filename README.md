@@ -58,14 +58,6 @@ Contribution 2: A short description of the contribution and its impact.
 
 Contribution 3: A short description of the contribution and its impact.
 -->
-Get In Touch 📬
-I love connecting with fellow developers, tech enthusiasts, and anyone who shares similar interests. You can reach out to me through:
-
-<!--Email: [Your Email Address] 📧 -->
-LinkedIn: https://www.linkedin.com/in/neelmacwan/ 💼
-Twitter: https://twitter.com/neelmacwantweet 🐦
-
-Let's have a chat and explore potential collaborations!
 ** Support Me ☕️**
 
 If you find value in my projects and contributions, consider supporting me:
@@ -74,5 +66,15 @@ If you find value in my projects and contributions, consider supporting me:
 <!-- PayPal 💰
 Your support means a lot to me and helps me dedicate more time to creating exciting software.
 -->
+Let's have a chat and explore potential collaborations!
+
+Get In Touch 📬
+I love connecting with fellow developers, tech enthusiasts, and anyone who shares similar interests. You can reach out to me through:
+
+<!--Email: [Your Email Address] 📧 -->
+LinkedIn: https://www.linkedin.com/in/neelmacwan/ 💼 <br>
+Twitter: https://twitter.com/neelmacwantweet 🐦 <br>
+
+
 Thank You 🙏
 Thanks for visiting my GitHub profile! I hope you find something interesting here. Don't forget to star the repositories you like and follow me for updates on my latest projects. Happy coding! 🚀
