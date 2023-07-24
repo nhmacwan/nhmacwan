@@ -1,15 +1,5 @@
-<!--- 👋 Hi, I’m @nhmacwan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--->
-<!---
-nhmacwan/nhmacwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Welcome! 🎉
-Profile Banner
+![Profile Banner]([https://example.com/your-banner-image.png](https://unsplash.com/photos/MECKPoKJYjM))
 
 Hello there! Welcome to my GitHub profile. I'm thrilled to have you here. My name is Neel Macwan 👩‍💻, and I'm a passionate Artificial Intelligence Developer with a love for coding and building innovative projects. Feel free to explore my repositories and contributions, and don't hesitate to reach out if you have any questions or want to collaborate.
 
@@ -21,8 +11,8 @@ Master of Science in Robotics & Autonomous Systems (Artificial Intelligence) \
 Arizona State University - May 2024 \
 Relevant Coursework: Machine Learning & A.I., Introduction to Deep Neural Networks, Artificial Intelligence, Machine Vision & Pattern Recognition, Robotic System 1 \
 
-Bachelor of Technology in Electronics & Communication Enginnering 
-Gujarat Technological University - May 2021
+Bachelor of Technology in Electronics & Communication Enginnering \
+Gujarat Technological University - May 2021 \
 
 
 ***
@@ -69,9 +59,9 @@ Contribution 3: A short description of the contribution and its impact.
 Get In Touch 📬
 I love connecting with fellow developers, tech enthusiasts, and anyone who shares similar interests. You can reach out to me through:
 
-Email: [Your Email Address] 📧
-LinkedIn: [Your LinkedIn Profile URL] 💼
-Twitter: [@YourTwitterHandle] 🐦
+<!--Email: [Your Email Address] 📧 -->
+LinkedIn: https://www.linkedin.com/in/neelmacwan/ 💼
+Twitter: https://twitter.com/neelmacwantweet 🐦
 Let's have a chat and explore potential collaborations!
 
 Support Me ☕️
