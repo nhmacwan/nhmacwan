@@ -1,5 +1,6 @@
 Welcome! 🎉
-![Profile Banner](https://drive.google.com/file/d/1WYeDTLBJd9q_SY89TmfR3I4BLynbG505/view?usp=sharing)
+![Profile Banner]('image.jpg')
+
 
 Hello there! Welcome to my GitHub profile. I'm thrilled to have you here. My name is Neel Macwan 👩‍💻, and I'm a passionate Artificial Intelligence Developer with a love for coding and building innovative projects. Feel free to explore my repositories and contributions, and don't hesitate to reach out if you have any questions or want to collaborate.
 
