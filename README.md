@@ -15,11 +15,11 @@ Hello there! Welcome to my GitHub profile. I'm thrilled to have you here. My nam
 
 ***
 Education 🎓
-I have pursued my education in [Your Field of Study] from [University/Institution Name], located in [Your Location]. My academic journey has been one of continuous learning and growth, providing me with a strong foundation in [Your Core Technologies] ⌨️ and a passion for exploring the potential of technology.
-
-Master of Science in Robotics & Autonomous Systems (Artificial Intelligence) 
-Arizona State University - May 2024
-Relevant Coursework: Machine Learning & A.I., Introduction to Deep Neural Networks, Artificial Intelligence, Machine Vision & Pattern Recognition, Robotic System 1
+<!--I have pursued my education in [Your Field of Study] from [University/Institution Name], located in [Your Location]. My academic journey has been one of continuous learning and growth, providing me with a strong foundation in [Your Core Technologies] ⌨️ and a passion for exploring the potential of technology.
+-->
+Master of Science in Robotics & Autonomous Systems (Artificial Intelligence) \
+Arizona State University - May 2024 \
+Relevant Coursework: Machine Learning & A.I., Introduction to Deep Neural Networks, Artificial Intelligence, Machine Vision & Pattern Recognition, Robotic System 1 \
 
 Bachelor of Technology in Electronics & Communication Enginnering 
 Gujarat Technological University - May 2021
