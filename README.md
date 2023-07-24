@@ -62,7 +62,7 @@ Contribution 3: A short description of the contribution and its impact.
 
 If you find value in my projects and contributions, consider supporting me:
 
-** [Buy Me a Coffee ☕️](https://www.buymeacoffee.com/nhmacwan)**
+**[Buy Me a Coffee ☕️](https://www.buymeacoffee.com/nhmacwan)**
 <!-- PayPal 💰
 Your support means a lot to me and helps me dedicate more time to creating exciting software.
 -->
