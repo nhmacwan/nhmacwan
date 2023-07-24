@@ -5,7 +5,7 @@ Welcome! 🎉
 Hello there! Welcome to my GitHub profile. I'm thrilled to have you here. My name is Neel Macwan 👩‍💻, and I'm a passionate Artificial Intelligence Developer with a love for coding and building innovative projects. Feel free to explore my repositories and contributions, and don't hesitate to reach out if you have any questions or want to collaborate.
 
 ***
-Education 🎓
+**Education 🎓**
 <!--I have pursued my education in [Your Field of Study] from [University/Institution Name], located in [Your Location]. My academic journey has been one of continuous learning and growth, providing me with a strong foundation in [Your Core Technologies] ⌨️ and a passion for exploring the potential of technology.
 -->
 **Master of Science in Robotics & Autonomous Systems (Artificial Intelligence)** \
@@ -58,7 +58,7 @@ Contribution 2: A short description of the contribution and its impact.
 
 Contribution 3: A short description of the contribution and its impact.
 -->
-** Support Me ☕️**
+**Support Me ☕️**
 
 If you find value in my projects and contributions, consider supporting me:
 
