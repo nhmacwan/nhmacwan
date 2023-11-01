@@ -78,3 +78,5 @@ Twitter: https://twitter.com/neelmacwantweet 🐦 <br>
 
 Thank You 🙏
 Thanks for visiting my GitHub profile! I hope you find something interesting here. Don't forget to star the repositories you like and follow me for updates on my latest projects. Happy coding! 🚀
+
+[![Neel Macwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhmacwan)](https://github.com/anuraghazra/github-readme-stats)
